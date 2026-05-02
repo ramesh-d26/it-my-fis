@@ -17,3 +17,6 @@ print(text[5])"""
 
 text=str(input("enter the name "))
 print(len(text))
+
+
+print("hello ramu")
